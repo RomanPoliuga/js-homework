@@ -62,7 +62,8 @@ const sqrtNumber = (Math.sqrt(number))
 console.log(sqrtNumber)
 
 // 9. Створити змінну const stringNumber = "256" для зберігання  рядка з числом у вигляді рядка.
-//  Використати метод parseInt() для перетворення рядка у ціле число. Результат зберегти в змінній convertedstring та вивести результат в консоль.
+//  Використати метод parseInt() для перетворення рядка у ціле число.
+//  Результат зберегти в змінній convertedstring та вивести результат в консоль.
 const stringNumber = "256";
 const convertedstring = (parseInt(stringNumber))
 console.log(convertedstring)
